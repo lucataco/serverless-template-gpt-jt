@@ -1,7 +1,7 @@
 
 # 🍌 Banana Serverless
 
-This repo provides a basic template for using GPT-TJ on Bananas serverless GPU platform. Ready to be used for 1-Click deploy.
+This repo provides a basic template for using GPT-JT on Bananas serverless GPU platform. Ready to be used for 1-Click deploy.
 
 ## Quickstart:
 
