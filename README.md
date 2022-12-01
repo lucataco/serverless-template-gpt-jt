@@ -5,7 +5,7 @@ This repo provides a basic template for using GPT-TJ on Bananas serverless GPU p
 
 ## Quickstart:
 
-The repo is already set up to run a basic [HuggingFace GPTJ](https://huggingface.co/EleutherAI/gpt-j-6B) model.
+The repo is already set up to run a basic [HuggingFace GPT-JT]([https://huggingface.co/EleutherAI/gpt-j-6B](https://huggingface.co/togethercomputer/GPT-JT-6B-v1)) model.
 1. Run `pip3 install -r requirements.txt` to download dependencies.
 2. Run `python3 server.py` to start the server.
 3. Run `python3 test.py` in a different terminal session to test against it.
