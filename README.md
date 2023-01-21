@@ -3,6 +3,8 @@
 
 This repo provides a basic template for using GPT-JT on Bananas serverless GPU platform. Ready to be used for 1-Click deploy.
 
+Includes test cases for Text summarization(#1), Question Answering(#2), and Sentiment Analysis(#3). For more capabilities see the [HuggingFace GPT-JT demo]([https://huggingface.co/spaces/togethercomputer/GPT-JT))
+
 ## Quickstart:
 
 The repo is already set up to run a basic [HuggingFace GPT-JT]([https://huggingface.co/EleutherAI/gpt-j-6B](https://huggingface.co/togethercomputer/GPT-JT-6B-v1)) model.
