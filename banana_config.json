@@ -3,5 +3,5 @@
     "category": "Natural Language",
     "example_input": {"max_new_tokens": 5, "prompt": "Return the currency of the given country. Input: Switzerland. Output: Swiss Franc. Input: India. Output:"},
     "example_output": {"output": "Indian Rupee"},
-    "version": "1"
+    "version": "2"
 }
